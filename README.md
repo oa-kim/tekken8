@@ -8,9 +8,9 @@
     철권 못하는 철권 유튜버 오아킴
     <br />
     <br />
-    <a href="#about"><img src="https://img.shields.io/badge/Youtube-%23FF0000?style=flat&logo=youtube"/></a>
+    <a href="https://www.youtube.com/@%EC%98%A4%EC%95%84%ED%82%B4"><img src="https://img.shields.io/badge/Youtube-%23FF0000?style=flat&logo=youtube"/></a>
     ·
-    <a href="https://ghostty.org/download"><img src="https://img.shields.io/badge/Chzzk-%2300FFA3?style=flat"/></a>
+    <a href="https://chzzk.naver.com/25f24ff421720f1be7d2b9c2edd9ffb2"><img src="https://img.shields.io/badge/Chzzk-%2300FFA3?style=flat"/></a>
 
 
   </p>
