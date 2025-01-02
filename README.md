@@ -22,6 +22,13 @@
 > PR을 올려주시거나, 이슈 등록해주시거나   
 > 유튭 댓글로 알려주시면 정말 감사드리겠습니다
 
+<br>
+
+## 도움주신 분(contributors)
+<a href="https://github.com/oa-kim/tekken8/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=oa-kim/tekken8" />
+</a>
+<!-- https://contrib.rocks/preview?repo=angular%2Fangular-ja -->
 
 <br>
 <br>
