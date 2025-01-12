@@ -43,5 +43,6 @@
 ## 2. 캐릭별 상대법
 ### 2-1. [로우](document/law.md) 
 ### 2-2. [펭](document/feng.md) 
+### 2-3. [아스카](document/asuka.md) 
 
 
