@@ -10,8 +10,7 @@
 | 횡오른손 | 14?/중/-13 | ![802_횡오른손](https://github.com/user-attachments/assets/86c6a791-1ba6-40ee-b3a5-a8b5454cda4b) | - |
 | 귀살 | 17/중/-18 | ![803_귀살](https://github.com/user-attachments/assets/2f27b37c-198e-484a-a973-42cd7aee409f) | - |
 | 동줍(2ap) | 20/하/-18 | ![804_동줍](https://github.com/user-attachments/assets/f389973f-9df6-4899-bd04-ed465fceedd6) | - |
-| 용차(뒤왼발) | 16/중/-19 | ![805_용차](https://github.com/user-attachments/assets/0ce90d45-dfec-4e37-ab81-4af97af75e1b) | 가드백이있어서 봉봉딜캐
- |
+| 용차(뒤왼발) | 16/중/-19 | ![805_용차](https://github.com/user-attachments/assets/0ce90d45-dfec-4e37-ab81-4af97af75e1b) | 가드백이있어서 봉봉딜캐 |
 | 백로하단(요블rp2rk) | 14/하상상하 | ![806_백로하단](https://github.com/user-attachments/assets/346b8216-0c3a-4da2-bbfd-6156d0474a4c) | 중단도 있음(중단가드시 아스카 -9) |
 | 원원포 | 10/상중하/-26 | ![807_원원포](https://github.com/user-attachments/assets/81890a67-89d1-4b05-9334-348048331579) | 중단도 있음(중단가드시 아스카 -5)|
 
