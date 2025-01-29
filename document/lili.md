@@ -40,7 +40,7 @@
 
 - 왼발 오른발 : 12딜캐
 
-![104_왼발오른발](https://github.com/user-attachments/assets/23203ad2-2d0f-41b1-9a9c-fd8929dcc7ea
+![104_왼발오른발](https://github.com/user-attachments/assets/c9f5ec6b-a79e-4f2b-9e8b-5df554e90f53)
 
 ### 뒤자세 하단공격
 - 아래 양발 : 기상어퍼
@@ -49,7 +49,7 @@
 
 - 미야비 : 기상 12 딜캐
 
-![103_미야비](https://github.com/user-attachments/assets/21e4ed79-0bd7-4f07-8b48-65715d8b86c6
+![103_미야비](https://github.com/user-attachments/assets/d78166cd-b284-4f14-82ed-e075aa212955)
 
 
 <br>
