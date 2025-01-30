@@ -24,15 +24,6 @@
 
 <br>
 
-## 도움주신 분(contributors)
-<a href="https://github.com/oa-kim/tekken8/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=oa-kim/tekken8" />
-</a>
-<!-- https://contrib.rocks/preview?repo=angular%2Fangular-ja -->
-
-<br>
-<br>
-
 ## 1. 횡
 ### 1-1. [횡 방향](document/side_step.md)
 ![IMG_2378](https://github.com/user-attachments/assets/6c4a64d0-e289-44f2-bde4-e441cf67b231)
@@ -45,4 +36,20 @@
 ### 2-2. [펭](document/feng.md) 
 ### 2-3. [아스카](document/asuka.md) 
 ### 2-4. [리리](document/lili.md) 
+### 2-5. [에디](document/eddy.md) 
 
+
+
+<br>
+
+## 도움주신 분(PR)
+<a href="https://github.com/oa-kim/tekken8/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=oa-kim/tekken8" />
+</a>
+<!-- https://contrib.rocks/preview?repo=angular%2Fangular-ja -->
+
+
+## 도움주신 분(Youtube댓글+깃헙이슈 등등)
+- [먹냥](https://www.youtube.com/@%EB%A8%B9%EB%83%A5-h3l)
+- [onlyfengs](https://github.com/onlyfengs)
+- 씹오아오아킴
