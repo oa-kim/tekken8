@@ -126,3 +126,17 @@
 - 참고로 폭단파는 막히고 15다
 
 ![212_폭단파-15](https://github.com/user-attachments/assets/9df142af-ac52-4ae6-a649-c5bd89768e25)
+
+
+
+
+
+## 펭의 심리?
+https://github.com/oa-kim/tekken8/issues/4
+- (수정중) : 이 글 참조로 넣고 나중엔 정리해서 여기다 쓰기도 해보겠음
+
+
+## 도움주신 분
+- [onlyfengs](https://github.com/onlyfengs)
+
+
