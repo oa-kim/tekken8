@@ -132,7 +132,7 @@
 
 
 ## 펭의 심리?
-- [펭의 심리란? (공략x)] https://github.com/oa-kim/tekken8/issues/4
+- [펭의 심리란? (공략x)](https://github.com/oa-kim/tekken8/issues/4)
 - (수정중) : 이 글 참조로 넣고 나중엔 정리해서 여기다 쓰기도 해보겠음
 
 
