@@ -28,6 +28,7 @@
 ### 1-1. [횡 방향](document/side_step.md)
 ![IMG_2378](https://github.com/user-attachments/assets/6c4a64d0-e289-44f2-bde4-e441cf67b231)
 
+- 클라이브 : 시계
 
 <br>
 
