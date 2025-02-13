@@ -29,6 +29,7 @@
 ![IMG_2378](https://github.com/user-attachments/assets/6c4a64d0-e289-44f2-bde4-e441cf67b231)
 
 - 클라이브 : 시계
+- 헤이하치 : 반시계
 
 <br>
 
